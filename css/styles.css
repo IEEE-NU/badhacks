@@ -26,6 +26,10 @@ video {
   justify-content: center;
 }
 
+a, .ieee{
+  color: #00629b;
+}
+
 #splash {
   padding-top:15vh;
   height:80vh;
