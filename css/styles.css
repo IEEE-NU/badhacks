@@ -5,13 +5,13 @@ body {
 }
 
 video {
-  position: fixed;
+  position: absolute;
   top: 25%;
   left: 50%;
-  /*min-width: 100%;*/
-  /*min-height: 100%;*/
-  /*width: 50%;*/
-  /*height: 50%;*/
+  min-width: 100%;
+  min-height: 100%;
+  width: 50%;
+  height: 50%;
   z-index: -100;
   -ms-transform: translateX(-50%) translateY(-50%);
   -moz-transform: translateX(-50%) translateY(-50%);
