@@ -39,3 +39,12 @@ a, .ieee{
 #subscribe {
   padding-top:5vh;
 }
+
+img {
+    max-width: 100%;
+}
+
+.landscape {
+    height: 5px;
+    width: 50px;
+}
